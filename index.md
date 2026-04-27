@@ -3,8 +3,11 @@ layout: home
 title: Home
 ---
 
-# Research Lab Name
+# Yee Hui Yeo Research Lab
 
-Welcome to our research group.
-[Meet our team](team)  
-[View publications](publications)
+Advancing research in [Hepatology] through innovation, collaboration, and evidence-based inquiry.
+
+Our work focuses on [Alcohol-associated liver disease, Implementation of AI and digital health, Cirrhosis and complications], with the goal of generating impactful knowledge and improving practice.
+
+[Meet the Team](team)  
+[Publications](publications)
